@@ -1,4 +1,4 @@
-language: generic
+language: DM
 sudo: false
 
 env:
