@@ -1,10 +1,17 @@
-# MushroomWorld: 0.0.2
+# MushroomWorld: 0.1.0 [FLIGHTPACK PATCH 1]
 Welcome to mushroom world (not sure how this will turn out) but please do fork this and submit a pull request!
 
 # Changelog
-# 22/12/16
-- First commit
+# 2016
+# December
 
-# 23/12/16
+# 23
 - Updated sprites
 - New code folders
+- FLIGHTPACK PATCH 1
+* Adds a whole load of new things 
+
+# 22
+- First commit
+
+
