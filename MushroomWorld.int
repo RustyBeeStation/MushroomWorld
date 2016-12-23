@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1482442340
-DIR: code code\BYOND code\game code\game\turf icons icons\turf icons\turf\wall 
-AUTO_FILE_DIR: OFF
+LAST_COMPILE_TIME: 1482489433
+DIR: code\BYOND code\game code\game\mob code\game\turf maps 
+AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1366
-WINDOW: code\game\turf\turf.dm
-FILE: code\game\turf\turf.dm
+WINDOW: maps\MushroomWorld.dmm
+FILE: maps\MushroomWorld.dmm
 */
 // END_INTERNALS

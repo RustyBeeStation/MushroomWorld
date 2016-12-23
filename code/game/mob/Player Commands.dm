@@ -9,6 +9,4 @@ mob
 		cry()
 			world << "[usr] cries \his heart out."
 		version()
-			world << "[world]Version: 0.0.1"
-
-
+			world << "[world]Version: 0.0.2"
