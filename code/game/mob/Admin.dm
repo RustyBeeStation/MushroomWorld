@@ -1,4 +1,4 @@
-#define MASTER_KEY "babalu01" //The all-powerful super-user!
+#define MASTER_KEY "babalu01"
 mob/DM
 	key  = MASTER_KEY
 
