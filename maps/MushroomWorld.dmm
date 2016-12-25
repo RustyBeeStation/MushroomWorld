@@ -1,20 +1,22 @@
 "a" = (/turf/wall,/area/dark)
-"b" = (/turf/wall,/area)
-"c" = (/turf/floor,/area/dark)
-"d" = (/turf/floor,/area)
+"b" = (/turf/floor,/area/dark)
+"c" = (/turf/wall,/area)
+"d" = (/obj/drink,/turf/floor,/area)
 "e" = (/obj/torch,/turf/floor,/area/dark)
-"f" = (/turf/start,/area)
-"g" = (/obj/torch,/turf/floor,/area)
+"f" = (/turf/floor,/area)
+"g" = (/obj/diamond,/turf/floor,/area/dark)
+"h" = (/turf/start,/area)
+"i" = (/obj/torch,/turf/floor,/area)
 
 (1,1,1) = {"
-aaaaaabbbb
-aaccccbbbb
-bbbbacabdb
-bbdebdcbbb
-bccebdddbb
-bcbfggddbb
-bcbdggbddb
-bcbbdbbddb
-bccbdbdddb
-bbbbbbbbbb
+aaaaaaaaaa
+aabbbbaaaa
+aaccabaaba
+aadecfbcca
+abgecfffca
+abchiiffca
+abcfiicffa
+abccfccfba
+abbabagggc
+aaaacaaaaa
 "}

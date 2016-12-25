@@ -9,7 +9,7 @@ mob
 		cry()
 			world << "[usr] cries \his heart out."
 		version()
-			world << "[world]Version: 0.1.2: It's not just a game changer, IT'S A NAME CHANGER!"
+			world << "[world]Version: 0.2.5: It's not just a game changer, IT'S A NAME CHANGER! FLIGHTPACK PATCH 2"
 		set_name(N as text)
 			set desc = "(\"new name\") Change your name."
 			name = N

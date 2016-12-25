@@ -1,9 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1482583795
+LAST_COMPILE_TIME: 1482671113
 DIR: code code\BYOND code\game code\game\mob code\game\turf icons\turf icons\turf\wall maps 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1366
+WINDOW: code\game\mob\Player Commands.dm
+FILE: code\game\mob\Player Commands.dm
 */
 // END_INTERNALS
