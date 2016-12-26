@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
-LAST_COMPILE_TIME: 1482489433
-DIR: code\BYOND code\game code\game\mob code\game\turf maps 
+LAST_COMPILE_TIME: 1482781719
+DIR: code code\BYOND code\game code\game\mob code\game\turf icons icons\objects icons\turf icons\turf\floor icons\turf\misc icons\turf\wall maps 
 AUTO_FILE_DIR: ON
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 511.1366
-WINDOW: maps\MushroomWorld.dmm
-FILE: maps\MushroomWorld.dmm
+WINDOW: code\FLIGHTPACK V.dm;code\game\mob\Player Commands.dm;code\game\turf\turf.dm;code\game\mob\Admin.dm;code\BYOND\BYOND checker.dm
+FILE: code\FLIGHTPACK V.dm
 */
 // END_INTERNALS

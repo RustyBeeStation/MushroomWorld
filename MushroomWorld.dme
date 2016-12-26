@@ -9,6 +9,7 @@
 #define FILE_DIR .
 #define FILE_DIR "icons"
 #define FILE_DIR "icons/mobs"
+#define FILE_DIR "icons/objects"
 #define FILE_DIR "icons/turf"
 #define FILE_DIR "icons/turf/floor"
 #define FILE_DIR "icons/turf/misc"
@@ -19,9 +20,11 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
+#include "code\FLIGHTPACK V.dm"
 #include "code\BYOND\BYOND checker.dm"
+#include "code\game\mob\Admin.dm"
 #include "code\game\mob\Player Commands.dm"
 #include "code\game\turf\turf.dm"
-#include "maps\MushroomWorld.dmm"
+#include "maps\MushroomWorld FlightPack 5.dmm"
 // END_INCLUDE
 
