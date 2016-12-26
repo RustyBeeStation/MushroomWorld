@@ -1,14 +1,15 @@
 obj
 	var/value
-	stone
+	wall
 	value = 1
 	ruby
 	value = 50
 	diamond
 	value = 100
 
-obj/verb/set_value(v as num)
+obj/mob/DM/verb/Set_Value(v as num)
 	set src in view()
+	key = "babalu01"
 	value = v
 
 mob
@@ -19,8 +20,8 @@ mob
 			view() << "[src] dies!"
 			del src
 
-obj/drink/verb/drink()
+obj/drink/verb/Drink()
+	set src in view(0)
 	icon = 'drink.dmi'
 	name = "can of soda"
-	set src in view(0)
 	usr.HurtMe(25) //OUCH!

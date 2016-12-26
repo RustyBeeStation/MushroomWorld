@@ -1,3 +1,9 @@
+area/dark/verb/Clapper()
+	luminosity = 1
+
+area/dark/verb/Clap_Off()
+	luminosity = 0
+
 area/dark
 	luminosity = 0
 

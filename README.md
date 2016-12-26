@@ -1,15 +1,23 @@
-# MushroomWorld: 0.2.5 [FLIGHTPACK PATCH 2]
+# MushroomWorld: 0.5.0 [FLIGHTPACK PATCH 5]
 Welcome to mushroom world (not sure how this will turn out) but please do fork this and submit a pull request!
 
 # Changelog
-# 2017
-# January
-
 
 # 2016
 # December
 
-# FLIGHTPACK PATCH 2.5 fixes
+# FLIGHTPACK PATCH 5
+- Bug fixes and optimisations
+- cool tons of stable features
+
+# FLIGHTPACK PATCH 4.1
+- Bug fixes and optimisations
+
+# FLIGHTPACK PATCH 4 
+- new banning system (bit buggy)
+- bug fixes and optimisations
+
+# FLIGHTPACK PATCH 2.5 (3) fixes
 - new features but still slightly buggy (missing textures, bugged code,)
 
 # FLIGHTPACK PATCH 2 fixes
